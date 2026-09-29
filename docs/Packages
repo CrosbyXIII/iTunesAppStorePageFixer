@@ -1,0 +1,22 @@
+Package: io.github.crosbyxii.itunesappstorepagefixer
+Name: iTunesAppStorePageFixer
+Version: 0.3.0~beta1
+Architecture: iphoneos-arm
+Section: Tweaks
+Priority: optional
+Maintainer: CrosbyXII
+Author: CrosbyXII
+Depends: firmware (= 5.1.1), mobilesubstrate (>= 0.9.5000), com.skyglow.tlsfix (>= 1.1)
+Conflicts: local.crosby.featuredrepair
+Replaces: local.crosby.featuredrepair
+Installed-Size: 58
+Description: Restore browsing pages in the original iOS 5 App Store and iTunes Store.
+Homepage: https://crosbyxiii.github.io/iTunesAppStorePageFixer/
+Depiction: https://crosbyxiii.github.io/iTunesAppStorePageFixer/depiction/
+Tag: role::enduser
+Filename: debs/io.github.crosbyxii.itunesappstorepagefixer_0.3.0~beta1_iphoneos-arm.deb
+Size: 20090
+MD5sum: 80b4c9178a8a962da76fc5857ff0d5b3
+SHA1: 2c3982a6b9ac5bd8789e3868b66fcc8127d1f03e
+SHA256: d50fcaa6f5c350ff9edec91b9fa91f5e98d828f5fb02b5d0472d4ebf3bc218bc
+

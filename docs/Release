@@ -1,0 +1,20 @@
+Origin: CrosbyXII's Cydia Repository
+Label: CrosbyXII's Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: ios5
+Architectures: iphoneos-arm
+Components: main
+Description: Restore browsing pages in the original iOS 5 App Store and iTunes Store.
+MD5Sum:
+ c5ef9e8bfb6250d1415166ffaa23d2d7 896 Packages
+ 3af894c1c0e32b8df19ca1fb20879cf8 531 Packages.gz
+ f4e0e71f2c164146f25ae4d064e30713 609 Packages.bz2
+SHA1:
+ 8804d00579576e73122ac6c17c1754eaa071f2e7 896 Packages
+ 2727248e2fe129ec4b6ededdad35f38480088896 531 Packages.gz
+ bf6c44187d8b96838b46e7c7466c7f9550bfce17 609 Packages.bz2
+SHA256:
+ 734981a256a03a79bccab85b9c659b1150a23c4a75b2041f7806757a8b73ce91 896 Packages
+ ea47dadd3bfa25aac8a0eb0f4c11edc5e5eb7d5bd4ee77e1a46682c78626227b 531 Packages.gz
+ f7774ed2bc27244604149df635cb607fccdcf541e0b6321159a18a5cf843b385 609 Packages.bz2
