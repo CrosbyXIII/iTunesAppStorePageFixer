@@ -15,5 +15,6 @@
   "payload_sha256": {
     "FeaturedRepair.dylib": "0800c6981c477810b352b1657e9f2f505841d2b215c014c151684df8bc62ea7c",
     "FeaturedRepair.plist": "11dfa80a430495c5e795190f68a4014e9d7215e5bbdd4584ef333e4a0410d70d"
-  }
+  },
+  "cydia_source_url": "https://crosbyxiii.github.io/"
 }

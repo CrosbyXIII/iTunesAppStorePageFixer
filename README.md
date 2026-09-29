@@ -4,7 +4,7 @@ Restore browsing pages in the original iOS 5 App Store and iTunes Store.
 
 **Beta 0.3.0~beta1 · iPad 1 · iOS 5.1.1 · MIT**
 
-Cydia source: `https://crosbyxiii.github.io/iTunesAppStorePageFixer/`
+Cydia source: `https://crosbyxiii.github.io/`
 
 [Package and instructions](https://crosbyxiii.github.io/iTunesAppStorePageFixer/) · [Support](https://github.com/CrosbyXIII/iTunesAppStorePageFixer/issues) · [Build guide](BUILDING.md) · [Test environment](TESTING.md)
 

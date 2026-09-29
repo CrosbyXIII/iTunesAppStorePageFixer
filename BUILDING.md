@@ -13,6 +13,8 @@ Edit `PUBLIC-COPY.md` for descriptions, credits, release notes, and instructions
 
 `docs/` is a flat Cydia/APT repository and a static website. It includes the `.deb`, `Packages`, gzip/bzip2 indexes, and a `Release` checksum manifest. The repository is unsigned; checksums detect inconsistent downloads but are not a signature. Serve it over HTTPS. Old clients need working TLS and roots for the chosen host.
 
+The recommended Cydia source is now **https://crosbyxiii.github.io/**, the [general CrosbyXII repository](https://github.com/CrosbyXIII/CrosbyXIII.github.io). This project's original source remains available for compatibility. After building and testing a new release, upload its `.deb` to the general repository's `packages/` folder; that repository automatically regenerates and publishes its catalog. Pushing this project's source alone does not update the general repository. `cydia_source_url` controls the recommended address displayed on these pages; `base_url` remains the URL of this project's own downloads and depiction.
+
 The package is a classic `iphoneos-arm` package with gzip tar members, containing only the two tweak files and its copyright notice. It has no installation scripts, certificate profiles, hosts changes, or third-party libraries. Close both stores before installation/update/removal and reopen afterward. Cydia manages dependencies. Package conflicts/replaces metadata handles the optional earlier development package ID.
 
 ## Build the source on macOS
